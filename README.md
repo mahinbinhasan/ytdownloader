@@ -1,5 +1,5 @@
 # ytdownloader
-I have created this Youtube video downloader using Pyrhon. I am new in programming. So please feel free to contact me about this program/
+I have created this Youtube video downloader using Python. I am new in programming. So please feel free to contact me about this program/
 
 Mahin YouTube Video Downloader version 1.4
 
